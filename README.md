@@ -187,5 +187,5 @@ The code for this project is available in the [https://colab.research.google.com
 
 
 
-# Follow Me on GitHub : 
+# Follow Me on GitHub : https://github.com/AayushGarg001
 
