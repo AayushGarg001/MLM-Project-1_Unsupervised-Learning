@@ -178,7 +178,7 @@ This project successfully utilized unsupervised learning to segment internationa
 
 ## Code
 
-The code for this project is available in the [https://colab.research.google.com/drive/1fuqmpdzxVSN_ZEOMPYyvXMBjuPTyxjkE?usp=sharing].
+The code for this project is available in the [https://colab.research.google.com/drive/1P8bAOG5qd4amcX-vna5uVV_XqukplOO5#scrollTo=3adc2533-e4fc-4779-ba72-dde5e2b12f49].
 
 ## Contributors
 
