@@ -105,7 +105,7 @@ The dataset includes the following features:
         -   Silhouette Score: 0.215
         -   Davies-Bouldin Index: 1.206
     -   **Birch:**
-        -   Identified 6 clusters.
+        -   Identified 7 clusters.
         -   Silhouette Score: 0.131
         -   Davies-Bouldin Index: 1.601
     -   **DBSCAN:**
