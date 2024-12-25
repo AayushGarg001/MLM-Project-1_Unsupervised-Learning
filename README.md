@@ -44,7 +44,7 @@ The dataset includes the following features:
     -   Customs\_Code (int64)
     -   Weight (float64)
     -   Invoice\_Number (int64)
--   **Categorical:**
+-   **Non Numerical:**
     -   Transaction\_ID (object)
     -   Country (object)
     -   Product (object)
